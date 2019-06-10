@@ -1,3 +1,13 @@
+# React Performance
+
+In this lunch and learn session, I went through a few examples on how to write better React code.
+
+It was created using (Spectacle)[https://formidable.com/open-source/spectacle/docs/getting-started/#setup] and has live code demos within the presentation. I tried my best to comment what can be changed to fix the examples.
+
+If time allows, I'll write a blog post and make sure the deck can be used without me presenting!
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
